@@ -1,0 +1,17 @@
+"PRD":
+  url: https://journals.aps.org/prd/
+  color: "#00369f"
+
+"JCAP":
+  url: https://iopscience.iop.org/journal/1475-7516
+  color: "#009f36"
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "#a6192e"
+
+"JCAP (submitted)":
+  color: "#888888"
+
+"In prep":
+  color: "#aaaaaa"

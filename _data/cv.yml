@@ -1,0 +1,227 @@
+cv:
+  name: Zhenyuan Wang
+  label: Postdoctoral Scholar Research Associate
+  email: zywang@ipac.caltech.edu
+  location: Pasadena, CA, US
+  image: ""
+  summary: I develop analytic and forward-modeling tools for extracting cosmological information from galaxy and supernova surveys, spanning perturbation theory, galaxy bias, and Type Ia supernova cosmology.
+
+  social_networks:
+    - network: GitHub
+      username: zywang-cosmo
+    - network: LinkedIn
+      username: zhenyuan-wang
+
+  address:
+    city: Pasadena
+    region: California
+    countryCode: US
+
+  sections:
+    Experience:
+      - company: Infrared Processing and Analysis Center (IPAC), Caltech
+        position: Postdoctoral Scholar Research Associate
+        location: Pasadena, CA, US
+        start_date: 2025-09
+        summary: "Supervisor: Dr. Yun Wang."
+
+      - company: The Pennsylvania State University
+        position: Graduate Research Assistant
+        location: State College, PA, US
+        start_date: 2019-08
+        end_date: 2025-08
+        summary: "Supervisor: Prof. Donghui Jeong."
+
+    Education:
+      - institution: The Pennsylvania State University
+        location: State College, PA, US
+        studyType: Ph.D. in Astronomy and Astrophysics
+        start_date: 2019-08
+        end_date: 2025-08
+        highlights:
+          - "Thesis: Forward Modeling Large-scale Structure in Galaxy Surveys with Perturbation Theory"
+          - "Advisor: Prof. Donghui Jeong"
+
+      - institution: The Pennsylvania State University
+        location: State College, PA, US
+        studyType: Pre-Doctoral Student
+        start_date: 2018-08
+        end_date: 2018-12
+        highlights:
+          - "Advisor: Prof. Donghui Jeong"
+
+      - institution: MIT, Kavli Institute for Astrophysics and Space Research
+        location: Cambridge, MA, US
+        studyType: Research Internship
+        start_date: 2017-06
+        end_date: 2017-09
+        highlights:
+          - "Advisors: Prof. Mark Vogelsberger & Dr. Rahul Kannan"
+
+      - institution: Tsinghua University
+        location: Beijing, China
+        area: Physics
+        studyType: B.S.
+        start_date: 2014-08
+        end_date: 2018-07
+        highlights:
+          - "Advisors: Prof. Yi Mao, Prof. Houjun Mo"
+
+    Academic Interests:
+      - name: Research Interests
+        keywords:
+          - Large-scale structure
+          - Cosmological perturbation theory
+          - Perturbative galaxy bias expansion
+          - Redshift-space distortion
+          - SNe Ia cosmology
+          - Data denoising
+
+    Publications:
+      - title: Modeling Biased Tracer Field with Renormalized Galaxy Bias Expansion
+        authors:
+          - Zhenyuan Wang
+          - Donghui Jeong
+          - Atsushi Taruya
+          - Takahiro Nishimichi
+          - Ken Osato
+        publisher: In preparation
+        releaseDate: "2026"
+
+      - title: Lossless Compression of Cosmological Information from Type Ia Supernova Distance Measurements
+        authors:
+          - Zhenyuan Wang
+          - Yun Wang
+        publisher: Submitted to JCAP
+        releaseDate: "2026"
+        url: https://arxiv.org/abs/2605.19188
+
+      - title: Model-Independent Analysis of Type Ia Supernova Datasets and Implications for Dark Energy
+        authors:
+          - Zhenyuan Wang
+          - Yun Wang
+        publisher: Submitted to JCAP
+        releaseDate: "2026"
+        url: https://arxiv.org/abs/2604.11883
+
+      - title: "Perturbation theory remixed II: Improved modeling of nonlinear matter bispectrum"
+        authors:
+          - Zhenyuan Wang
+          - Donghui Jeong
+          - Atsushi Taruya
+          - Takahiro Nishimichi
+          - Ken Osato
+        publisher: Physical Review D, 110, 103548
+        releaseDate: "2024"
+        url: https://arxiv.org/abs/2408.06413
+
+      - title: Recovering the Missing Large-Scale Density Modes in 21cm Intensity Mapping from the Scalar-Type Clustering Fossils
+        authors:
+          - Zhenyuan Wang
+          - Donghui Jeong
+        publisher: JCAP, 07(2024)020
+        releaseDate: "2024"
+        url: https://arxiv.org/abs/2312.17321
+
+      - title: "Perturbation theory remixed: Improved nonlinearity modeling beyond standard perturbation theory"
+        authors:
+          - Zhenyuan Wang
+          - Donghui Jeong
+          - Atsushi Taruya
+          - Takahiro Nishimichi
+          - Ken Osato
+        publisher: Physical Review D, 107(10), 103534
+        releaseDate: "2023"
+        url: https://arxiv.org/abs/2209.00033
+
+      - title: The Breakdown Scale of HI Bias Linearity
+        authors:
+          - Zhenyuan Wang
+          - Y. Chen
+          - Y. Mao
+          - H. Mo
+          - H. Wang
+          - H. Guo
+          - others
+          - Z. Zheng
+        publisher: The Astrophysical Journal, 907, 4
+        releaseDate: "2021"
+        url: https://arxiv.org/abs/1901.02724
+
+    Awards:
+      - title: Zaccheus Daniel Fellowship
+        awarder: The Pennsylvania State University
+        date: "2024"
+
+      - title: Downsbrough Graduate Fellowship in Astrophysics for outstanding research
+        awarder: The Pennsylvania State University
+        date: "2024"
+
+      - title: First Prize, KIAS QUG Summer School on A.I. in High Energy Physics
+        awarder: Korea Institute for Advanced Study
+        date: "2023"
+        summary: "Project: Train Generative Adversarial Network to generate LHC events. Mentor: Dr. Ramon Winterhalder."
+
+      - title: Zaccheus Daniel Fellowship
+        awarder: The Pennsylvania State University
+        date: "2022"
+
+      - title: Homer F. Braddock / Nellie H. and Oscar L. Roberts Fellowship
+        awarder: The Pennsylvania State University
+        date: "2019"
+
+      - title: National Astronomical Observatories, Chinese Academy of Sciences Fellowship
+        awarder: National Astronomical Observatories, CAS
+        date: "2017"
+
+    Skills:
+      - name: Programming
+        keywords:
+          - Julia
+          - Python
+          - Mathematica
+          - C
+          - Fortran
+
+      - name: Technologies
+        keywords:
+          - Git
+          - FFT
+          - MCMC
+          - Machine Learning
+          - HPC
+          - N-body Simulations
+
+    Languages:
+      - name: Chinese
+        summary: Native
+
+      - name: English
+        summary: Professional
+
+    Selected Talks:
+      - bullet: "**Robust Modeling of Galaxy Large-scale Structure** — IAS/Princeton University Early Universe/Cosmology Lunch Discussion (2024)"
+      - bullet: "**Towards Accurate Galaxy Bias Renormalization** — YITP International Workshop: Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations (2024)"
+      - bullet: "**Perturbative Modeling of Galaxy Large-scale Structure** (Seminar) — USM Galaxies and Lensing Seminar, LMU Munich (2024)"
+      - bullet: "**Perturbation Theory Remixed** — BCCP Cosmology Workshop: Cosmology in the Adriatic (2024)"
+      - bullet: "**Perturbation Theory Remixed** — Workshop: New Strategies for Extracting Cosmology from Galaxy Surveys, 2nd edition (2024)"
+      - bullet: "**The Renormalization of Galaxy Bias** — The 6th Penn State Neighborhood Workshop (2024)"
+      - bullet: "**Perturbation Theory Remixed** (Parallel Talk) — YITP Workshop: Revisiting Cosmological Non-linearities in the Era of Precision Surveys (2023)"
+      - bullet: "**Perturbation Theory Remixed** (Parallel Talk) — Cosmology from Home 2023"
+
+    Mentoring:
+      - bullet: "Zhaoning Liu (Ph.D. student at Tsinghua University & Visiting Scholar at Penn State, 2024–now) — Perturbative Galaxy Bias Expansion"
+      - bullet: "Sophia Lieber (Undergrad, Penn State, 2024–now) — Machine Learning and Cosmic Structure Formation"
+      - bullet: "Chengkai Yu (Undergrad, Penn State, 2023–now) — Lagrangian Perturbation Theory and Redshift-space Distortion"
+      - bullet: "Liam Schwartz (Undergrad, Penn State, 2022–2023) — Cosmological Parameter Inference from Power Spectrum"
+      - bullet: "Jiale Xiao (Undergrad, Penn State, 2022) — Julia Programming, Grid-based Calculation of Cosmological Perturbation Theory"
+      - bullet: "Siyi Zhao (Undergrad, Tsinghua University, 2020–2021) — Eulerian Perturbation Theory and Primordial Non-Gaussianity"
+
+    Teaching:
+      - bullet: "Graduate Teaching Assistant, The Pennsylvania State University"
+      - bullet: "ASTRO 497: Data Science Applications for Exoplanets"
+      - bullet: "ASTRO 415: Introduction to Astrostatistics"
+      - bullet: "ASTRO 414: Stellar Structure"
+      - bullet: "ASTRO 410: Computational Astrophysics"
+      - bullet: "ASTRO 6: Stars, Galaxies, and the Universe (co-teaching 20% of lectures)"
+      - bullet: "ASTRO 1: Astronomical Universe (Rooftop Activities and Planetarium Instructor)"
